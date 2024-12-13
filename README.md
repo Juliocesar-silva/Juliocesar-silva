@@ -32,7 +32,8 @@ public static void main(String[] args){
 
 #
 
-### **COMPUTADOR DE ESTUDO:** ![](https://img.shields.io/badge/Windows-ASUS_Vivobook-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+### **COMPUTADOR DE ESTUDO:** 
+![](https://img.shields.io/badge/Windows-ASUS_Vivobook-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 #
 ### **INFORMAÇÕES EXTRAS**: 
